@@ -1,0 +1,16 @@
+C:\Users\Rutger\Documents\CMGT\GXPEngine2023\GXPEngine\bin\Debug\GXPEngine.exe.config
+C:\Users\Rutger\Documents\CMGT\GXPEngine2023\GXPEngine\bin\Debug\GXPEngine.exe
+C:\Users\Rutger\Documents\CMGT\GXPEngine2023\GXPEngine\bin\Debug\GXPEngine.pdb
+C:\Users\Rutger\Documents\CMGT\GXPEngine2023\GXPEngine\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\Rutger\Documents\CMGT\GXPEngine2023\GXPEngine\obj\x86\Debug\GXPEngine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rutger\Documents\CMGT\GXPEngine2023\GXPEngine\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\Rutger\Documents\CMGT\GXPEngine2023\GXPEngine\obj\x86\Debug\GXPEngine.exe
+C:\Users\Rutger\Documents\CMGT\GXPEngine2023\GXPEngine\obj\x86\Debug\GXPEngine.pdb
+C:\Users\Rutger\Documents\CMGT\PERIODE 2\Game Programming\GXPErosion\GXPEngine\bin\Debug\GXPEngine.exe.config
+C:\Users\Rutger\Documents\CMGT\PERIODE 2\Game Programming\GXPErosion\GXPEngine\bin\Debug\GXPEngine.exe
+C:\Users\Rutger\Documents\CMGT\PERIODE 2\Game Programming\GXPErosion\GXPEngine\bin\Debug\GXPEngine.pdb
+C:\Users\Rutger\Documents\CMGT\PERIODE 2\Game Programming\GXPErosion\GXPEngine\obj\x86\Debug\GXPEngine.csproj.AssemblyReference.cache
+C:\Users\Rutger\Documents\CMGT\PERIODE 2\Game Programming\GXPErosion\GXPEngine\obj\x86\Debug\GXPEngine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rutger\Documents\CMGT\PERIODE 2\Game Programming\GXPErosion\GXPEngine\obj\x86\Debug\GXPEngine.csproj.CoreCompileInputs.cache
+C:\Users\Rutger\Documents\CMGT\PERIODE 2\Game Programming\GXPErosion\GXPEngine\obj\x86\Debug\GXPEngine.exe
+C:\Users\Rutger\Documents\CMGT\PERIODE 2\Game Programming\GXPErosion\GXPEngine\obj\x86\Debug\GXPEngine.pdb
